@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **PHP with Laravel , asp net and asp net core.**
 
-- 🌱 I’m currently learning **I’m currently working on**
-
 - 👯 I’m looking to collaborate on **Alamedas apps**
 
 - 💬 Ask me about **laravel,react native and c#**
